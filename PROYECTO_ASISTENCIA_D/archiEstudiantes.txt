@@ -1,0 +1,2 @@
+12,   Carlos,   Fernandez,  , 12,  12, 12,   30,  12
+45, Luis, Torrez, M, 45, casado, 548745, boliviano, sup
